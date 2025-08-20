@@ -1,0 +1,6 @@
+1.selenium
+2.webdriver-manager
+3.beautifulsoup4
+4.pandas
+5.openpyxl
+
