@@ -24,17 +24,6 @@ Supports saving data in CSV and XLSX formats.
 
 Displays real-time scraping progress and status updates inside the GUI.
 
-🛠️ Requirements
-
-Before running the scraper, install the required dependencies:
-
-pip install selenium
-pip install webdriver-manager
-pip install beautifulsoup4
-pip install pandas
-
-
-You also need Google Chrome installed, since Selenium uses the Chrome WebDriver.
 
 📂 How It Works
 
