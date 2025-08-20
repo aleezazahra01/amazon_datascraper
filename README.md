@@ -1,7 +1,7 @@
 🛒 Amazon Scraper with GUI
 
 
-<img width="606" height="638" alt="amazonscraper" src="https://github.com/user-attachments/assets/1c60f402-6617-4e37-896a-87a58a2af44b" />
+<img width="300" height="200" alt="amazonscraper" src="https://github.com/user-attachments/assets/1c60f402-6617-4e37-896a-87a58a2af44b" />
 
 This project is a Tkinter-based desktop application that allows users to scrape product data from Amazon search result pages using Selenium and BeautifulSoup. The data is saved into a CSV or Excel file, which the user can name and download directly from the GUI.
 
