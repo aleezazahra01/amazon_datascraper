@@ -9,15 +9,12 @@ The data is saved into a CSV or Excel file, which the user can name and download
 ## Features
 
 GUI built with Tkinter for easy interaction.Using tkinter could be slow but it's the only GUI I'm familiar with.Supports saving data in CSV and XLSX formats ,Displays real-time scraping progress and status updates inside the GUI.
-##How It Works
-
 In the GUI:
 
 Just Enter the Amazon page URL (search results or product listing) nd Enter a file name for your output.
 Simply Click "Scrape from this page" to start scraping.
 Once completed, click "Save As" to export the data in .csv or .xlsx.
-
-
+------------------------------------------------------------------------
 ## Example Output
 (Sample output)
 title	price	item sold	ratings	link to the item	image link
