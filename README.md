@@ -3,7 +3,8 @@
 <img width="606" height="638" alt="amazonscraper" src="https://github.com/user-attachments/assets/50a1a75f-2f05-444b-bc87-3345d573f896" />
 
 
-This project is a Tkinter-based desktop application that allows users to scrape product data from Amazon search result pages using Selenium and BeautifulSoup. The data is saved into a CSV or Excel file, which the user can name and download directly from the GUI.
+This project is a Tkinter-based desktop application that allows users to scrape product data from Amazon search result pages using Selenium and BeautifulSoup.
+The data is saved into a CSV or Excel file, which the user can name and download directly from the GUI.
 
 ## Features
 
