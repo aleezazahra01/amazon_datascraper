@@ -5,25 +5,9 @@
 
 This project is a Tkinter-based desktop application that allows users to scrape product data from Amazon search result pages using Selenium and BeautifulSoup. The data is saved into a CSV or Excel file, which the user can name and download directly from the GUI.
 
-Features
+## Features
 
-GUI built with Tkinter for easy interaction.
-
-Scrapes product details such as:
-
-1. Title
-
-2. Price
-
-3. Number of items sold
-
-4.Ratings
-
-5. Product link
-
-6. Image link
-
-Supports saving data in CSV and XLSX formats ,Displays real-time scraping progress and status updates inside the GUI.
+GUI built with Tkinter for easy interaction.Using tkinter could be slow but it's the only GUI I'm familiar with.Supports saving data in CSV and XLSX formats ,Displays real-time scraping progress and status updates inside the GUI.
 ##How It Works
 
 In the GUI:
@@ -34,6 +18,7 @@ Once completed, click "Save As" to export the data in .csv or .xlsx.
 
 
 ## Example Output
+(Sample output)
 title	price	item sold	ratings	link to the item	image link
 Example Product 1	$29.99	500+	4.5 ★	amazon.com/...	img-url...
 Example Product 2	$15.49	N/A	4.0 ★	amazon.com/...	img-url...
