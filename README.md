@@ -14,7 +14,7 @@ In the GUI:
 Just Enter the Amazon page URL (search results or product listing) nd Enter a file name for your output.
 Simply Click "Scrape from this page" to start scraping.
 Once completed, click "Save As" to export the data in .csv or .xlsx.
-------------------------------------------------------------------------
+
 ## Example Output
 (Sample output)
 title	price	item sold	ratings	link to the item	image link
