@@ -32,7 +32,7 @@ class AmazonScraper:
         self.root = tk.Tk()
         self.root.geometry('600x600')
         self.root.config(bg=self.COLOUR_ONE)
-        self.root.title("AirBnb scraper ")
+        self.root.title("Amazon scraper ")
 
         self.title = Label(self.root, text='Amazon Scraper', font=('Helvetica', 20, 'bold'), fg=self.text_color, bg=self.COLOUR_ONE)
         self.title.pack(pady=10)
